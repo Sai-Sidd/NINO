@@ -1,4 +1,4 @@
-## NINO
+# NINO
 # Website-Blocker-Chrome-Extension
 
 Chrome Extention that blocks your favorite websites, so you can do less scrolling and more studying.
